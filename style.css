@@ -110,13 +110,13 @@ section{
         width: 800px;
         justify-content: center;
         margin-top: 460px;
-        margin-left: 295px;
+        margin-left: 120px;
     }
     .navigation-manual{
         position: absolute;
         width: 800px;
         margin-top: -40px;
-        margin-left: 295px;
+        margin-left: 120px;
         display: flex;
         justify-content: center;
     }
